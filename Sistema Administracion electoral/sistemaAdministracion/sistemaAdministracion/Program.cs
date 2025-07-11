@@ -1,4 +1,17 @@
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using System.Text;
+
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<sistemaAdministracion.Data.sistemaAdministracionContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("sistemaAdministracionContext")));
+
+
+
 
 // Add services to the container.
 

@@ -1,15 +1,15 @@
 [
   {
-    "ContainingType": "sistemaAdministracion.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "sistemaAdministracion.Controllers.CandidaturasController",
+    "Method": "GetCandidaturas",
+    "RelativePath": "api/Candidaturas",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.WeatherForecast, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.CandidaturaDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -17,7 +17,1200 @@
         ],
         "StatusCode": 200
       }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CandidaturasController",
+    "Method": "PostCandidatura",
+    "RelativePath": "api/Candidaturas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateCandidaturaDto",
+        "IsRequired": true
+      }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.CandidaturaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CandidaturasController",
+    "Method": "GetCandidatura",
+    "RelativePath": "api/Candidaturas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.CandidaturaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CandidaturasController",
+    "Method": "PutCandidatura",
+    "RelativePath": "api/Candidaturas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateCandidaturaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CandidaturasController",
+    "Method": "DeleteCandidatura",
+    "RelativePath": "api/Candidaturas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoesController",
+    "Method": "GetCargos",
+    "RelativePath": "api/Cargoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.CargoDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoesController",
+    "Method": "PostCargo",
+    "RelativePath": "api/Cargoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateCargoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.CargoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoesController",
+    "Method": "GetCargo",
+    "RelativePath": "api/Cargoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.CargoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoesController",
+    "Method": "PutCargo",
+    "RelativePath": "api/Cargoes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateCargoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoesController",
+    "Method": "DeleteCargo",
+    "RelativePath": "api/Cargoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoSeccionsController",
+    "Method": "GetRelaciones",
+    "RelativePath": "api/CargoSeccions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.CargoSeccionDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoSeccionsController",
+    "Method": "PostRelacion",
+    "RelativePath": "api/CargoSeccions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateCargoSeccionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.CargoSeccionDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.CargoSeccionsController",
+    "Method": "DeleteRelacion",
+    "RelativePath": "api/CargoSeccions",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cargoId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "seccionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.EleccionsController",
+    "Method": "GetElecciones",
+    "RelativePath": "api/Eleccions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.EleccionDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.EleccionsController",
+    "Method": "PostEleccion",
+    "RelativePath": "api/Eleccions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateEleccionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.EleccionDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.EleccionsController",
+    "Method": "GetEleccion",
+    "RelativePath": "api/Eleccions/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.EleccionDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.EleccionsController",
+    "Method": "PutEleccion",
+    "RelativePath": "api/Eleccions/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateEleccionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.EleccionsController",
+    "Method": "DeleteEleccion",
+    "RelativePath": "api/Eleccions/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.JuradoesController",
+    "Method": "GetJurados",
+    "RelativePath": "api/Juradoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.JuradoDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.JuradoesController",
+    "Method": "PostJurado",
+    "RelativePath": "api/Juradoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateJuradoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.JuradoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.JuradoesController",
+    "Method": "GetJurado",
+    "RelativePath": "api/Juradoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.JuradoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.JuradoesController",
+    "Method": "PutJurado",
+    "RelativePath": "api/Juradoes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateJuradoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.JuradoesController",
+    "Method": "DeleteJurado",
+    "RelativePath": "api/Juradoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.MesaElectoralsController",
+    "Method": "GetMesasElectorales",
+    "RelativePath": "api/MesaElectorals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.MesaElectoralDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.MesaElectoralsController",
+    "Method": "PostMesaElectoral",
+    "RelativePath": "api/MesaElectorals",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateMesaElectoralDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.MesaElectoralDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.MesaElectoralsController",
+    "Method": "GetMesaElectoral",
+    "RelativePath": "api/MesaElectorals/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.MesaElectoralDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.MesaElectoralsController",
+    "Method": "PutMesaElectoral",
+    "RelativePath": "api/MesaElectorals/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateMesaElectoralDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.MesaElectoralsController",
+    "Method": "DeleteMesaElectoral",
+    "RelativePath": "api/MesaElectorals/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PapeletasController",
+    "Method": "GetPapeletas",
+    "RelativePath": "api/Papeletas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.PapeletaDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PapeletasController",
+    "Method": "PostPapeleta",
+    "RelativePath": "api/Papeletas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreatePapeletaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.PapeletaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PapeletasController",
+    "Method": "GetPapeleta",
+    "RelativePath": "api/Papeletas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.PapeletaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PapeletasController",
+    "Method": "PutPapeleta",
+    "RelativePath": "api/Papeletas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreatePapeletaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PapeletasController",
+    "Method": "DeletePapeleta",
+    "RelativePath": "api/Papeletas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PartidoesController",
+    "Method": "GetPartidos",
+    "RelativePath": "api/Partidoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.PartidoDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PartidoesController",
+    "Method": "PostPartido",
+    "RelativePath": "api/Partidoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreatePartidoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.PartidoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PartidoesController",
+    "Method": "GetPartido",
+    "RelativePath": "api/Partidoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.PartidoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PartidoesController",
+    "Method": "PutPartido",
+    "RelativePath": "api/Partidoes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreatePartidoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.PartidoesController",
+    "Method": "DeletePartido",
+    "RelativePath": "api/Partidoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.RecintoesController",
+    "Method": "GetRecintos",
+    "RelativePath": "api/Recintoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.RecintoDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.RecintoesController",
+    "Method": "PostRecinto",
+    "RelativePath": "api/Recintoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateRecintoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.RecintoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.RecintoesController",
+    "Method": "GetRecinto",
+    "RelativePath": "api/Recintoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.RecintoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.RecintoesController",
+    "Method": "PutRecinto",
+    "RelativePath": "api/Recintoes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateRecintoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.RecintoesController",
+    "Method": "DeleteRecinto",
+    "RelativePath": "api/Recintoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionEleccionsController",
+    "Method": "GetRelaciones",
+    "RelativePath": "api/SeccionEleccions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.SeccionEleccionDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionEleccionsController",
+    "Method": "PostRelacion",
+    "RelativePath": "api/SeccionEleccions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateSeccionEleccionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionEleccionsController",
+    "Method": "DeleteRelacion",
+    "RelativePath": "api/SeccionEleccions",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "seccionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "eleccionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionsController",
+    "Method": "GetSecciones",
+    "RelativePath": "api/Seccions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.SeccionDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionsController",
+    "Method": "PostSeccion",
+    "RelativePath": "api/Seccions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateSeccionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.SeccionDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionsController",
+    "Method": "GetSeccion",
+    "RelativePath": "api/Seccions/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.SeccionDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionsController",
+    "Method": "PutSeccion",
+    "RelativePath": "api/Seccions/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateSeccionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.SeccionsController",
+    "Method": "DeleteSeccion",
+    "RelativePath": "api/Seccions/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.VotantesController",
+    "Method": "GetVotantes",
+    "RelativePath": "api/Votantes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sistemaAdministracion.Dtos.VotanteDto, sistemaAdministracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.VotantesController",
+    "Method": "PostVotante",
+    "RelativePath": "api/Votantes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateVotanteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.VotanteDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.VotantesController",
+    "Method": "GetVotante",
+    "RelativePath": "api/Votantes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sistemaAdministracion.Dtos.VotanteDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.VotantesController",
+    "Method": "PutVotante",
+    "RelativePath": "api/Votantes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sistemaAdministracion.Dtos.CreateVotanteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistemaAdministracion.Controllers.VotantesController",
+    "Method": "DeleteVotante",
+    "RelativePath": "api/Votantes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

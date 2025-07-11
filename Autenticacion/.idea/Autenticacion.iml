@@ -16,7 +16,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (Autenticacion)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 virtualenv at C:\Users\PC\Desktop\Gustavo Sistemas Nur\9no semestre Gustavo\Ingeneria web 3\pruebaDjango\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">

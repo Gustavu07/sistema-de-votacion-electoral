@@ -1,0 +1,18 @@
+﻿namespace sistemaAdministracion.Dtos
+{
+    public class RecintoDto
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Direccion { get; set; }
+        public string Coordenadas { get; set; }
+    }
+
+    public class CreateRecintoDto
+    {
+        public string Nombre { get; set; }
+        public string Direccion { get; set; }
+        public string Coordenadas { get; set; }
+    }
+
+}

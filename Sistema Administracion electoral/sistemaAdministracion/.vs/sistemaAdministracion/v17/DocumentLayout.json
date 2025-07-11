@@ -3,36 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\candidatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\candidatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\partidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\partidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\cargoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\cargoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\mesaelectoral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\mesaelectoral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\candidaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\candidaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\recinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\recinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\votantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\votantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\seccionelecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\seccionelecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\secciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\secciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\recintodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\recintodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\partidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\partidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\papeletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\papeletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\mesaelectoraldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\mesaelectoraldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\juradodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\juradodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\elecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\elecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\createcargosecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\createcargosecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\cargodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\cargodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\dtos\\candidaturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\dtos\\candidaturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\votante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\votante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\seccioneleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\seccioneleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\seccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\seccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\eleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\eleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\recinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\recinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\papeleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\papeleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\mesaelectoral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\mesaelectoral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\jurado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\jurado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\eleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\eleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\cargoseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\cargoseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\models\\candidatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\models\\candidatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\cargoseccionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\cargoseccionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\votantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\votantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\mesaelectoralscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\mesaelectoralscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\recintoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\recintoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|c:\\users\\pc\\desktop\\gustavo sistemas nur\\9no semestre gustavo\\ingeneria web 3\\proyecto final web\\sistema administracion electoral\\sistemaadministracion\\sistemaadministracion\\controllers\\eleccionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F45F943-CB2D-4CD0-B5EA-8A11D15E2A9C}|sistemaAdministracion\\sistemaAdministracion.csproj|solutionrelative:sistemaadministracion\\controllers\\eleccionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,107 +150,421 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "candidatura.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\candidatura.cs",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\candidatura.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\candidatura.cs",
-              "RelativeToolTip": "sistemaAdministracion\\Models\\candidatura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CargoesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\CargoesController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\CargoesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\CargoesController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\CargoesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T02:20:09.15Z",
+              "WhenOpened": "2025-07-09T04:59:16.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "mesaElectoral.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\mesaElectoral.cs",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\mesaElectoral.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\mesaElectoral.cs",
-              "RelativeToolTip": "sistemaAdministracion\\Models\\mesaElectoral.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CandidaturasController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\CandidaturasController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\CandidaturasController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\CandidaturasController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\CandidaturasController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAUwIgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T02:19:55.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "recinto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\recinto.cs",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\recinto.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\recinto.cs",
-              "RelativeToolTip": "sistemaAdministracion\\Models\\recinto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T02:19:41.28Z",
+              "WhenOpened": "2025-07-08T02:39:13.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "seccion.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\seccion.cs",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\seccion.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\seccion.cs",
-              "RelativeToolTip": "sistemaAdministracion\\Models\\seccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SeccionEleccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\SeccionEleccionDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\SeccionEleccionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\SeccionEleccionDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\SeccionEleccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T02:19:15.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "eleccion.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\eleccion.cs",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\eleccion.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\eleccion.cs",
-              "RelativeToolTip": "sistemaAdministracion\\Models\\eleccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T02:19:02.323Z",
+              "WhenOpened": "2025-07-09T03:41:40.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\appsettings.json",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\appsettings.json",
-              "RelativeToolTip": "sistemaAdministracion\\appsettings.json",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-18T23:40:33.08Z",
+              "Title": "PartidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\PartidoDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\PartidoDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\PartidoDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\PartidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:36:40.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "sistemaAdministracion\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PartidoesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\PartidoesController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\PartidoesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\PartidoesController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\PartidoesController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAwwHsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T23:33:50.098Z",
+              "WhenOpened": "2025-07-08T02:53:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PapeletaDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\PapeletaDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\PapeletaDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\PapeletaDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\PapeletaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:35:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JuradoDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\JuradoDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\JuradoDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\JuradoDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\JuradoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:35:32.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Program.cs",
-              "RelativeDocumentMoniker": "sistemaAdministracion\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Program.cs",
-              "RelativeToolTip": "sistemaAdministracion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABbAAAAAAAAAA==",
+              "Title": "RecintoDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\RecintoDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\RecintoDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\RecintoDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\RecintoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:15:07.449Z",
+              "WhenOpened": "2025-07-08T03:30:50.349Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VotanteDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\VotanteDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\VotanteDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\VotanteDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\VotanteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:54:55.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EleccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\EleccionDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\EleccionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\EleccionDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\EleccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:35:21.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CargoDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\CargoDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\CargoDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\CargoDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\CargoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:35:07.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\SeccionDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\SeccionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\SeccionDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\SeccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:20:45.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidaturaDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\CandidaturaDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\CandidaturaDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\CandidaturaDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\CandidaturaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:34:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeccionEleccion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\SeccionEleccion.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\SeccionEleccion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\SeccionEleccion.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\SeccionEleccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:26:15.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Partido.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Partido.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Partido.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Partido.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Partido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:24:51.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MesaElectoralDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\MesaElectoralDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\MesaElectoralDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\MesaElectoralDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\MesaElectoralDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:34:31.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\appsettings.json",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\appsettings.json",
+              "RelativeToolTip": "sistemaAdministracion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T02:18:37.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Papeleta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Papeleta.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Papeleta.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Papeleta.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Papeleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:56:14.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCargoSeccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\CreateCargoSeccionDto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Dtos\\CreateCargoSeccionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Dtos\\CreateCargoSeccionDto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Dtos\\CreateCargoSeccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:11:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Cargo.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Cargo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Cargo.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Cargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:53:37.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Eleccion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Eleccion.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Eleccion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Eleccion.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Eleccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:53:41.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recinto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Recinto.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Recinto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Recinto.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Recinto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:31:58.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Votante.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Votante.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Votante.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Votante.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Votante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:54:30.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Candidatura.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Candidatura.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Candidatura.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Candidatura.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Candidatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:52:56.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Seccion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Seccion.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Seccion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Seccion.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Seccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:20:30.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CargoSeccion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\CargoSeccion.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\CargoSeccion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\CargoSeccion.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\CargoSeccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:55:36.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Jurado.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Jurado.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\Jurado.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\Jurado.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\Jurado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:43:50.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MesaElectoral.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\MesaElectoral.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Models\\MesaElectoral.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Models\\MesaElectoral.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Models\\MesaElectoral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:34:04.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CargoSeccionsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\CargoSeccionsController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\CargoSeccionsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\CargoSeccionsController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\CargoSeccionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:14:06.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MesaElectoralsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\MesaElectoralsController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\MesaElectoralsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\MesaElectoralsController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\MesaElectoralsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:35:18.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VotantesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\VotantesController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\VotantesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\VotantesController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\VotantesController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:55:40.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RecintoesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\RecintoesController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\RecintoesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\RecintoesController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\RecintoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:28:21.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EleccionsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\EleccionsController.cs",
+              "RelativeDocumentMoniker": "sistemaAdministracion\\Controllers\\EleccionsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Gustavo Sistemas Nur\\9no semestre Gustavo\\Ingeneria web 3\\Proyecto Final Web\\Sistema Administracion electoral\\sistemaAdministracion\\sistemaAdministracion\\Controllers\\EleccionsController.cs",
+              "RelativeToolTip": "sistemaAdministracion\\Controllers\\EleccionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:24:19.774Z"
             }
           ]
         }

@@ -1,0 +1,23 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log y temporales
+*.log
+*.tmp
+
+# Archivos de publicación
+*.publish.xml
+
+# Configuraciones de Rider o VSCode
+.idea/
+.vscode/
